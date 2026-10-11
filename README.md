@@ -35,7 +35,7 @@ The AI component is the supervised intent classifier, trained on a custom comman
 ├── tts.py              # text-to-speech (pyttsx3)
 ├── actions.py          # one function per intent + dispatcher
 ├── user.py             # stores the user's name locally
-├── train_final.py      # trains the classifier and saves intent_model.pkl
+├── train.py            # trains the classifier and saves intent_model.pkl
 ├── dataset.csv         # custom command-intent dataset
 └── requirements.txt
 ```
@@ -55,7 +55,7 @@ The AI component is the supervised intent classifier, trained on a custom comman
 3. Download the Vosk model `vosk-model-small-en-us-0.15` from https://alphacephei.com/vosk/models, unzip it, and rename the folder to `model` so it sits next to `main.py`.
 4. Train the classifier (skip this if `intent_model.pkl` is already in the repo):
 ```bash
-   python train_final.py
+   python train.py
 ```
 
 ## Run
