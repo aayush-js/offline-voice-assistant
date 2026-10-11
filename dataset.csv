@@ -1,0 +1,237 @@
+text,intent
+hi,greet
+hello,greet
+hi there,greet
+hey,greet
+hey there,greet
+hello there,greet
+good morning,greet
+good afternoon,greet
+good evening,greet
+hey assistant,greet
+hello assistant,greet
+hi assistant,greet
+hey a system,greet
+hello a system,greet
+hi a system,greet
+howdy,greet
+greetings,greet
+how are you,greet
+what's the time,get_time
+what is the time,get_time
+current time,get_time
+what time is it,get_time
+tell me the time,get_time
+do you have the time,get_time
+what's the current time,get_time
+tell me the current time,get_time
+can you tell me the time,get_time
+what is the time right now,get_time
+time please,get_time
+what time is it now,get_time
+show me the time,get_time
+got the time,get_time
+what's the time now,get_time
+set a timer for five minutes,timer
+start a timer,timer
+start a ten minute timer,timer
+timer for two minutes,timer
+set a timer for thirty seconds,timer
+remind me in ten minutes,timer
+set timer for one hour,timer
+start a countdown for five minutes,timer
+can you set a timer,timer
+set a fifteen minute timer,timer
+start the timer for three minutes,timer
+countdown timer for one minute,timer
+set a twenty minute timer,timer
+begin a timer,timer
+timer for forty five seconds,timer
+start the stopwatch,stopwatch
+stop the stopwatch,stopwatch
+start stopwatch,stopwatch
+stop stopwatch,stopwatch
+begin the stopwatch,stopwatch
+reset the stopwatch,stopwatch
+pause the stopwatch,stopwatch
+resume the stopwatch,stopwatch
+turn on the stopwatch,stopwatch
+can you start the stopwatch,stopwatch
+stopwatch start,stopwatch
+stopwatch stop,stopwatch
+end the stopwatch,stopwatch
+stopwatch please,stopwatch
+clear the stopwatch,stopwatch
+open calculator,open_app
+launch calculator,open_app
+start calculator,open_app
+open notepad,open_app
+launch notepad,open_app
+run notepad,open_app
+open chrome,open_app
+launch chrome,open_app
+start chrome,open_app
+open paint,open_app
+launch paint,open_app
+open file explorer,open_app
+launch file explorer,open_app
+can you open calculator,open_app
+could you please open notepad,open_app
+i want to open chrome,open_app
+bring up the calculator,open_app
+please open paint,open_app
+run the calculator,open_app
+what's the date,get_date
+what is the date today,get_date
+today's date,get_date
+what day is it,get_date
+tell me the date,get_date
+what is today's date,get_date
+which day is it today,get_date
+tell me today's date,get_date
+current date,get_date
+what day is it today,get_date
+search for python,web_search
+look up python,web_search
+search for python programming,web_search
+google python tutorials,web_search
+search the web for weather,web_search
+look up the capital of france,web_search
+search for best laptops,web_search
+find information about robots,web_search
+search for how to cook rice,web_search
+google machine learning,web_search
+look up the news,web_search
+search online for electric cars,web_search
+what can you do,help
+help,help
+help me,help
+what are your commands,help
+how can you help me,help
+what do you do,help
+show me what you can do,help
+list your commands,help
+i need help,help
+what can i ask you,help
+how do i use you,help
+tell me what you can do,help
+goodbye,exit
+bye,exit
+quit,exit
+exit,exit
+stop listening,exit
+see you later,exit
+close the assistant,exit
+bye bye,exit
+shut down,exit
+that is all,exit
+goodnight,exit
+exit the program,exit
+take care,exit
+talk to you later,exit
+see you tomorrow,exit
+i am done,exit
+we are done here,exit
+turn off,exit
+stop the assistant,exit
+close the program,exit
+good night,exit
+catch you later,exit
+that will be all,exit
+end the session,exit
+goodbye assistant,exit
+i am leaving now,exit
+cheers bye,exit
+what is the date,get_date
+what's today's date,get_date
+tell me what day it is,get_date
+what is today,get_date
+date please,get_date
+show me the date,get_date
+what's the date today,get_date
+which date is it,get_date
+what date is it today,get_date
+can you tell me the date,get_date
+search for football scores,web_search
+look up the meaning of resistor,web_search
+google how to learn python,web_search
+search for recipes,web_search
+find me a tutorial on arduino,web_search
+look up the weather in kerala,web_search
+search for nearby restaurants,web_search
+search for ohms law,web_search
+what commands do you have,help
+can you help me,help
+what are you able to do,help
+how does this work,help
+give me help,help
+what features do you have,help
+good day,greet
+hi assistant,greet
+hey buddy,greet
+yo,greet
+hello again,greet
+set a timer for one minute,timer
+timer for ten minutes,timer
+start a five minute timer,timer
+set a timer for two hours,timer
+restart the stopwatch,stopwatch
+start the stopwatch please,stopwatch
+stop the stopwatch now,stopwatch
+stopwatch reset,stopwatch
+what's the time please,get_time
+tell me what time it is,get_time
+time now,get_time
+what time is it right now,get_time
+start notepad,open_app
+run paint,open_app
+launch the calculator,open_app
+open file explorer please,open_app
+good night assistant,exit
+have a good night,exit
+night night,exit
+nighty night,exit
+sleep well,exit
+how are you doing,greet
+how is it going,greet
+how are things,greet
+how do you do,greet
+hows it going,greet
+what's up,greet
+sup,greet
+hello how are you,greet
+hey how are you,greet
+what are the commands you support,help
+show me your commands,help
+what are your features,help
+how do i use this assistant,help
+how do i use this,help
+what are you capable of,help
+tell me your commands,help
+what tasks can you do,help
+how can i use you,help
+good day to you,greet
+hello friend,greet
+hi buddy,greet
+hey you,greet
+greetings assistant,greet
+howdy assistant,greet
+nice to meet you,greet
+stop listening now,exit
+please stop listening,exit
+we are done,exit
+goodbye for now,exit
+goodbye and thanks,exit
+thanks bye,exit
+stop the program,exit
+find information about electric cars,web_search
+find me information on python,web_search
+find a tutorial on python,web_search
+remind me in five minutes,timer
+remind me in thirty seconds,timer
+remind me in two minutes,timer
+remind me in fifteen minutes,timer
+remind me in one hour,timer
+remind me in twenty seconds,timer
+remind me in half an hour,timer
+can you remind me in five minutes,timer
